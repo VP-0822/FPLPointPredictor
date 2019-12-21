@@ -1,0 +1,313 @@
+player_id,_player_last_name,position,current_team_id,_current_team_abbr,_current_team_name,_current_team_alt_id,_rank,crosses_value,assists_value,corners_taken_value,freekick_scored_value,goals_value,woodwork_hit_value,on_target_shots_value,shots_value
+4029,Noble,M,25,WHU,West Ham United,t21,177,5,1,0,0,1,0,3,7
+5745,Silva,M,11,MCI,Manchester City,t43,101,15,4,1,0,3,1,6,20
+5990,Henderson,M,10,LIV,Liverpool,t14,39,35,1,1,0,1,1,2,4
+6009,Agüero,F,11,MCI,Manchester City,t43,199,4,2,0,0,9,3,12,42
+6019,Young,D,12,MUN,Manchester United,t1,13,61,0,36,0,0,0,0,3
+6025,Dummett,D,23,NEW,Newcastle United,t4,177,5,0,0,0,0,0,2,2
+6280,Azpilicueta,D,4,CHE,Chelsea,t8,43,32,2,0,0,0,0,0,2
+6363,Tettey,M,14,NOR,Norwich City,t45,270,1,0,0,0,0,0,0,1
+6447,Ward-Prowse,M,20,SOU,Southampton,t20,9,68,0,51,0,3,0,11,23
+6478,Rose,D,21,TOT,Tottenham Hotspur,t6,34,37,0,1,0,0,0,0,2
+6505,Vertonghen,D,21,TOT,Tottenham Hotspur,t6,245,2,0,0,0,0,0,0,0
+6566,Kane,F,21,TOT,Tottenham Hotspur,t6,134,9,1,0,0,7,1,12,32
+6577,Özil,M,1,ARS,Arsenal,t3,74,20,0,14,0,0,0,1,1
+6623,Borges Da Silva,F,4,CHE,Chelsea,t8,34,37,3,21,0,2,0,7,29
+6723,Luiz Rosa,M,11,MCI,Manchester City,t43,270,1,0,0,0,0,0,1,5
+6773,Lamela,M,21,TOT,Tottenham Hotspur,t6,28,41,1,33,0,2,0,4,12
+6776,Eriksen,M,21,TOT,Tottenham Hotspur,t6,32,39,1,24,0,1,0,6,15
+7018,Gündogan,M,,,,,81,19,0,10,0,1,1,3,19
+7431,Mata,M,12,MUN,Manchester United,t1,245,2,0,1,0,0,0,1,4
+7748,Milivojevic,M,6,CRY,Crystal Palace,t31,7,74,0,49,0,2,0,7,13
+10045,Francis,D,127,BOU,Bournemouth,t91,164,6,0,0,0,0,0,0,1
+10046,Cook,D,127,BOU,Bournemouth,t91,270,1,0,0,0,1,1,1,7
+10048,Daniels,D,127,BOU,Bournemouth,t91,177,5,0,0,0,0,0,0,0
+10050,Smith,D,127,BOU,Bournemouth,t91,126,11,1,0,0,0,0,1,2
+10059,Fraser,M,127,BOU,Bournemouth,t91,6,78,3,30,1,1,0,6,15
+10205,Stephens,M,131,BHA,Brighton and Hove Albion,t36,245,2,0,0,0,0,0,2,10
+10314,Barnes,F,43,BUR,Burnley,t90,199,4,0,0,0,6,0,12,35
+11259,Vardy,F,26,LEI,Leicester City,t13,131,10,3,0,0,12,0,20,31
+11653,Grealish,M,2,AVL,Aston Villa,t7,52,28,4,19,0,2,0,8,23
+13589,Bellerín,D,1,ARS,Arsenal,t3,134,9,0,0,0,0,0,0,1
+13935,Zaha,F,6,CRY,Crystal Palace,t31,85,18,1,0,0,1,0,6,25
+13981,Albrighton,M,26,LEI,Leicester City,t13,113,13,1,0,0,0,0,1,4
+14011,Shaw,D,12,MUN,Manchester United,t1,199,4,0,4,0,0,0,0,1
+14109,Dier,M,21,TOT,Tottenham Hotspur,t6,270,1,0,0,0,0,0,1,3
+14111,Davies,D,21,TOT,Tottenham Hotspur,t6,157,7,0,0,0,0,0,0,1
+14131,Cresswell,D,25,WHU,West Ham United,t21,47,30,0,0,1,2,0,4,9
+14290,Wilson,F,127,BOU,Bournemouth,t91,113,13,0,0,0,5,0,11,20
+14848,Alli,M,21,TOT,Tottenham Hotspur,t6,217,3,1,2,0,2,0,3,6
+15123,Basham,D,18,SHU,Sheffield United,t49,134,9,0,0,0,0,0,0,3
+15257,Cathcart,D,33,WAT,Watford,t57,270,1,0,0,0,0,0,0,1
+17894,Origi,F,10,LIV,Liverpool,t14,121,12,0,0,0,1,0,1,5
+18566,Davis,M,2,AVL,Aston Villa,t7,270,1,0,0,0,0,0,2,4
+18721,King,F,127,BOU,Bournemouth,t91,149,8,2,1,0,3,0,7,13
+18801,Bong,D,131,BHA,Brighton and Hove Albion,t36,164,6,0,0,0,0,0,0,0
+18843,Tarkowski,D,43,BUR,Burnley,t90,245,2,1,0,0,1,0,3,9
+18957,Rodríguez Ledesma,F,4,CHE,Chelsea,t8,177,5,0,0,0,0,0,4,10
+19205,Davies,M,7,EVE,Everton,t11,217,3,0,0,0,1,0,4,6
+19415,Maitland-Niles,M,1,ARS,Arsenal,t3,157,7,2,0,0,0,0,0,3
+19444,Fuchs,D,26,LEI,Leicester City,t13,199,4,0,0,0,0,0,0,2
+19506,Milner,M,10,LIV,Liverpool,t14,245,2,2,2,0,1,0,2,7
+19511,Barbosa de Oliveira,F,10,LIV,Liverpool,t14,245,2,3,0,0,4,1,16,41
+19592,Otamendi,D,11,MCI,Manchester City,t43,309,0,0,0,0,1,0,4,8
+19595,De Bruyne,M,11,MCI,Manchester City,t43,3,120,9,78,0,3,1,5,30
+19619,Martial,F,12,MUN,Manchester United,t1,217,3,3,0,0,3,0,10,18
+19620,Rashford,F,12,MUN,Manchester United,t1,90,17,4,4,0,7,2,16,40
+19695,Shelvey,M,23,NEW,Newcastle United,t4,59,26,0,20,1,2,2,4,12
+20023,Sharp,F,18,SHU,Sheffield United,t49,270,1,0,0,0,1,0,2,2
+20234,Alderweireld,D,21,TOT,Tottenham Hotspur,t6,164,6,1,0,0,0,0,1,7
+20239,Son,F,21,TOT,Tottenham Hotspur,t6,113,13,4,4,0,4,3,14,34
+20255,Holebas,D,33,WAT,Watford,t57,16,58,0,32,0,0,0,3,6
+20262,Capoue,M,33,WAT,Watford,t57,245,2,0,0,0,0,0,1,9
+20341,Ogbonna,D,25,WHU,West Ham United,t21,270,1,0,0,0,1,0,3,4
+20752,Chilwell,D,26,LEI,Leicester City,t13,28,41,3,4,0,1,1,3,8
+21247,Kelly,D,6,CRY,Crystal Palace,t31,177,5,1,0,0,0,0,0,0
+21858,Willock,M,1,ARS,Arsenal,t3,270,1,0,0,0,0,0,1,4
+22162,Choudhury,M,26,LEI,Leicester City,t13,270,1,1,0,0,0,0,1,3
+22788,Gibbs-White,M,38,WOL,Wolverhampton Wanderers,t39,245,2,0,0,0,0,0,0,2
+22919,Lowton,D,,,,,38,36,1,0,0,0,0,0,1
+23153,Gray,M,,,,,149,8,1,0,0,0,0,3,5
+23389,Bertrand,D,,,,,55,27,1,5,0,0,0,0,2
+23462,van Aanholt,D,6,CRY,Crystal Palace,t31,47,30,0,7,0,2,0,3,12
+23607,Doherty,D,,,,,121,12,0,0,0,1,1,5,12
+26145,Xhaka,M,1,ARS,Arsenal,t3,245,2,1,0,0,0,0,2,6
+26151,Lanzini,M,25,WHU,West Ham United,t21,55,27,2,21,0,0,0,3,14
+30533,Alexander-Arnold,D,10,LIV,Liverpool,t14,1,153,3,58,0,1,0,5,15
+30549,Mané,F,10,LIV,Liverpool,t14,90,17,2,0,0,8,1,15,31
+30557,Townsend,M,6,CRY,Crystal Palace,t31,60,25,1,4,0,1,0,4,5
+30598,Ritchie,M,23,NEW,Newcastle United,t4,66,23,0,13,0,0,0,1,3
+30667,Hayden,M,23,NEW,Newcastle United,t4,157,7,1,0,0,0,0,2,7
+30669,Cook,M,127,BOU,Bournemouth,t91,270,1,0,1,0,0,0,0,2
+30925,O'Connell,D,18,SHU,Sheffield United,t49,134,9,1,0,0,0,0,1,8
+30926,Fleck,M,18,SHU,Sheffield United,t49,18,55,1,32,0,2,0,6,14
+30959,Ibe,M,127,BOU,Bournemouth,t91,217,3,0,1,0,0,0,0,0
+30960,Kanté,M,4,CHE,Chelsea,t8,177,5,0,0,0,3,0,3,7
+30985,Berg Gudmundsson,M,43,BUR,Burnley,t90,74,20,0,8,0,1,0,2,6
+31289,Masuaku,D,25,WHU,West Ham United,t21,157,7,1,0,0,0,0,0,2
+31712,Sterling,F,11,MCI,Manchester City,t43,55,27,1,0,0,7,2,11,37
+32098,Pogba,M,12,MUN,Manchester United,t1,245,2,2,0,0,0,0,1,9
+32103,Pereyra,M,33,WAT,Watford,t57,105,14,0,11,0,1,0,4,13
+32140,March,M,131,BHA,Brighton and Hove Albion,t36,45,31,1,5,0,0,0,3,7
+32203,Janmaat,D,33,WAT,Watford,t57,64,24,1,0,0,0,0,0,4
+33511,Yedlin,D,23,NEW,Newcastle United,t4,81,19,0,0,0,1,0,1,1
+34626,Zinchenko,M,11,MCI,Manchester City,t43,67,22,0,1,0,0,0,2,8
+34883,Mariappa,D,33,WAT,Watford,t57,270,1,0,0,0,0,0,0,2
+35017,Hendrick,M,43,BUR,Burnley,t90,134,9,0,0,0,2,0,6,12
+35018,Alonso,D,4,CHE,Chelsea,t8,64,24,2,1,0,1,0,2,5
+35149,Alzate,F,131,BHA,Brighton and Hove Albion,t36,309,0,0,0,0,0,0,2,7
+35800,Saïss,M,38,WOL,Wolverhampton Wanderers,t39,217,3,0,0,0,1,0,4,4
+35862,Sissoko,M,21,TOT,Tottenham Hotspur,t6,85,18,1,0,0,0,0,0,7
+41062,Calvert-Lewin,F,7,EVE,Everton,t11,177,5,0,0,0,3,0,5,12
+42220,Ndidi,M,26,LEI,Leicester City,t13,270,1,0,0,0,2,1,2,11
+42655,Schneiderlin,M,7,EVE,Everton,t11,177,5,0,0,0,0,0,0,4
+42727,Schlupp,D,6,CRY,Crystal Palace,t31,157,7,1,0,0,0,0,6,12
+42970,Westwood,M,43,BUR,Burnley,t90,23,51,2,36,0,0,0,0,6
+42971,Brady,M,43,BUR,Burnley,t90,177,5,2,3,0,0,0,0,2
+43047,Lovren,D,,,,,309,0,0,0,0,0,0,1,4
+43049,Matip,D,10,LIV,Liverpool,t14,270,1,0,0,0,1,0,1,3
+43133,Taylor,D,2,AVL,Aston Villa,t7,149,8,0,0,0,0,0,0,3
+43135,Hourihane,M,2,AVL,Aston Villa,t7,47,30,2,19,1,2,1,5,12
+43231,McTominay,M,12,MUN,Manchester United,t1,134,9,1,0,0,3,0,6,20
+43997,Murray,F,131,BHA,Brighton and Hove Albion,t36,217,3,0,0,0,0,0,1,6
+44017,Atsu,M,23,NEW,Newcastle United,t4,105,14,2,5,0,0,0,1,4
+44026,Kolasinac,D,1,ARS,Arsenal,t3,101,15,1,0,0,0,0,0,3
+44030,Veiga de Carvalho e Silva,M,11,MCI,Manchester City,t43,34,37,2,12,0,5,1,10,24
+44032,Cleverley,M,33,WAT,Watford,t57,90,17,0,3,0,1,0,4,15
+44033,Zabaleta,D,25,WHU,West Ham United,t21,134,9,0,0,0,0,0,0,0
+47001,Stevens,D,18,SHU,Sheffield United,t49,28,41,2,0,0,0,0,0,7
+47007,Bennett,D,38,WOL,Wolverhampton Wanderers,t39,199,4,0,0,0,0,0,0,1
+47172,Aké,D,127,BOU,Bournemouth,t91,217,3,1,0,0,1,0,3,12
+47184,Salah Ghaly,F,10,LIV,Liverpool,t14,81,19,3,21,0,6,1,19,40
+47195,Hughes,M,33,WAT,Watford,t57,164,6,1,0,0,1,0,2,10
+48182,Groß,M,131,BHA,Brighton and Hove Albion,t36,21,53,2,27,1,1,1,3,16
+48228,Femenía Far,D,33,WAT,Watford,t57,70,21,0,1,0,0,0,0,3
+48542,Lacazette,F,1,ARS,Arsenal,t3,164,6,1,0,0,4,1,11,21
+48549,Taylor,D,43,BUR,Burnley,t90,134,9,0,0,0,0,0,0,0
+49704,da Silva Neves,M,38,WOL,Wolverhampton Wanderers,t39,90,17,0,7,0,2,0,4,22
+49709,Cork,M,43,BUR,Burnley,t90,217,3,0,0,0,0,0,3,6
+50015,Walker,D,11,MCI,Manchester City,t43,90,17,2,1,0,1,0,2,9
+50119,El Mohamady Abdel Fattah,D,2,AVL,Aston Villa,t7,90,17,0,0,0,0,0,0,0
+50135,Robertson,D,10,LIV,Liverpool,t14,8,70,5,1,0,1,0,4,11
+50136,Manquillo,D,23,NEW,Newcastle United,t4,177,5,0,0,0,0,0,0,0
+51340,Lewis,D,14,NOR,Norwich City,t45,85,18,0,0,0,0,0,2,4
+51699,Stiepermann,M,14,NOR,Norwich City,t45,199,4,0,0,0,0,1,4,14
+51703,Pröpper,M,131,BHA,Brighton and Hove Albion,t36,105,14,1,0,0,0,0,3,13
+51790,Gray,F,33,WAT,Watford,t57,217,3,0,0,0,2,0,5,16
+52087,James,D,4,CHE,Chelsea,t8,164,6,0,0,0,0,0,0,1
+52102,Hudson-Odoi,F,4,CHE,Chelsea,t8,131,10,3,3,0,0,0,2,6
+52220,Foden,F,,,,,245,2,0,2,0,0,0,3,4
+52229,McArthur,M,6,CRY,Crystal Palace,t31,134,9,1,0,0,0,0,1,7
+52240,Sigurdsson,M,7,EVE,Everton,t11,27,47,1,24,0,1,0,11,24
+52277,Wood,F,43,BUR,Burnley,t90,199,4,0,0,0,6,0,14,24
+52974,Snodgrass,M,25,WHU,West Ham United,t21,15,60,1,29,0,2,1,4,7
+53036,Aurier,D,21,TOT,Tottenham Hotspur,t6,40,34,2,0,0,0,0,0,5
+53174,Baldock,D,18,SHU,Sheffield United,t49,26,49,1,0,0,1,0,3,7
+53178,Lundstram,M,18,SHU,Sheffield United,t49,74,20,1,1,0,3,1,6,22
+55835,Godfrey,M,14,NOR,Norwich City,t45,270,1,0,0,0,0,1,1,5
+58929,Lingard,M,12,MUN,Manchester United,t1,217,3,0,2,0,0,0,0,7
+90117,Rojo,D,,,,,217,3,0,0,0,0,0,0,1
+90688,Schelotto,D,131,BHA,Brighton and Hove Albion,t36,270,1,0,0,0,0,0,0,1
+90847,Valery,D,,,,,134,9,0,0,0,0,0,1,2
+90860,Højbjerg,M,,,,,157,7,0,0,0,0,0,3,16
+90981,Walker-Peters,D,,,,,149,8,0,0,0,0,0,0,1
+90987,Winks,M,21,TOT,Tottenham Hotspur,t6,113,13,0,5,0,0,0,2,7
+91041,Rice,D,,,,,217,3,0,0,0,0,0,2,7
+91050,Antonio,M,,,,,217,3,0,0,0,1,1,5,8
+93098,Tosun,F,7,EVE,Everton,t11,245,2,0,0,0,1,0,3,9
+93725,Walcott,F,7,EVE,Everton,t11,105,14,1,1,0,0,1,4,16
+93882,Barkley,M,,,,,217,3,0,1,0,0,0,5,15
+93899,Lennon,M,43,BUR,Burnley,t90,217,3,0,0,0,0,0,0,1
+93957,Tuanzebe,D,12,MUN,Manchester United,t1,270,1,0,0,0,0,0,0,0
+93960,Hernández,M,14,NOR,Norwich City,t45,113,13,0,1,0,1,0,4,10
+94007,Coleman,D,,,,,60,25,1,0,0,0,0,2,4
+94140,Palmieri dos Santos,D,4,CHE,Chelsea,t8,85,18,0,1,0,0,1,5,8
+94217,Aubameyang,F,1,ARS,Arsenal,t3,34,37,0,0,1,8,1,14,34
+94221,Giroud,F,4,CHE,Chelsea,t8,270,1,0,0,0,0,0,1,1
+94228,Rodrigues Moura da Silva,M,21,TOT,Tottenham Hotspur,t6,245,2,1,0,0,2,0,7,19
+94350,Lallana,M,,,,,270,1,0,0,0,1,0,1,3
+94486,Success Ajayi,F,33,WAT,Watford,t57,245,2,0,0,0,0,0,1,1
+95187,Rodriguez,F,43,BUR,Burnley,t90,270,1,0,0,0,2,1,5,10
+106028,Doucouré,M,33,WAT,Watford,t57,149,8,0,0,0,1,0,4,23
+115748,Hoelgebaum Pereira,M,12,MUN,Manchester United,t1,28,41,1,23,0,1,0,9,22
+128164,Ward,D,6,CRY,Crystal Palace,t31,105,14,0,0,0,0,0,1,3
+128282,Mendy,D,,,,,113,13,0,0,0,0,0,0,2
+128570,Cantwell,M,14,NOR,Norwich City,t45,149,8,2,3,0,3,0,8,17
+128766,McNeil,F,43,BUR,Burnley,t90,5,82,4,25,0,1,1,3,15
+129749,Barbosa Pereira,D,26,LEI,Leicester City,t13,52,28,0,0,0,2,0,2,6
+129750,Evans,D,26,LEI,Leicester City,t13,270,1,1,0,0,0,0,1,7
+129751,Dalot Teixeira,D,12,MUN,Manchester United,t1,245,2,0,0,0,0,0,0,0
+129752,Deulofeu,F,33,WAT,Watford,t57,18,55,2,21,0,2,3,15,33
+129759,Tavares,M,10,LIV,Liverpool,t14,177,5,1,0,0,1,0,2,6
+129761,Fredericks,D,25,WHU,West Ham United,t21,60,25,1,0,0,0,0,0,0
+129762,Boly,D,38,WOL,Wolverhampton Wanderers,t39,245,2,1,0,0,0,0,0,0
+129879,Diop,D,25,WHU,West Ham United,t21,270,1,0,0,0,0,0,3,6
+130045,Maddison,M,26,LEI,Leicester City,t13,4,92,2,74,1,4,0,8,36
+130050,Rodrigues de Paula Santos,M,12,MUN,Manchester United,t1,199,4,0,2,0,0,1,3,13
+130310,Armstrong,M,20,SOU,Southampton,t20,199,4,0,0,0,0,0,3,5
+130460,Ki,M,23,NEW,Newcastle United,t4,177,5,0,3,0,0,0,0,0
+130554,Silva Nascimento Vinagre,D,38,WOL,Wolverhampton Wanderers,t39,164,6,0,0,0,0,0,0,1
+130623,Leitner,M,14,NOR,Norwich City,t45,177,5,0,0,0,0,2,0,8
+130624,Buendía,M,14,NOR,Norwich City,t45,9,68,4,49,0,0,0,4,14
+130627,Pukki,F,14,NOR,Norwich City,t45,217,3,3,0,0,6,0,18,35
+130672,Masina,D,33,WAT,Watford,t57,177,5,0,0,0,0,0,0,2
+131743,Teixeira da Silva,F,38,WOL,Wolverhampton Wanderers,t39,121,12,0,0,0,1,0,9,25
+131752,Torreira,M,1,ARS,Arsenal,t3,134,9,0,8,0,1,0,4,10
+131779,Mahrez,F,11,MCI,Manchester City,t43,74,20,3,12,2,3,1,12,20
+131780,Guendouzi,M,1,ARS,Arsenal,t3,199,4,1,1,0,0,1,4,7
+131781,Yarmolenko,F,25,WHU,West Ham United,t21,105,14,1,0,0,3,1,9,18
+132044,Vestergaard,D,20,SOU,Southampton,t20,270,1,0,0,0,1,0,4,8
+132771,Frello Filho,M,4,CHE,Chelsea,t8,199,4,2,0,0,1,0,1,6
+132927,Pereira Gomes,M,25,WHU,West Ham United,t21,60,25,3,3,0,0,1,7,17
+133133,Egan,D,18,SHU,Sheffield United,t49,245,2,0,0,0,0,0,0,2
+133548,Boufal,M,,,,,113,13,2,0,0,0,0,6,14
+133641,Santos Moutinho,M,38,WOL,Wolverhampton Wanderers,t39,12,65,3,58,1,1,0,3,7
+133644,McGoldrick,F,18,SHU,Sheffield United,t49,177,5,1,0,0,0,0,12,19
+133646,de Andrade,F,7,EVE,Everton,t11,51,29,2,1,0,3,2,10,34
+133647,Rico,D,127,BOU,Bournemouth,t91,11,67,2,28,0,0,1,1,6
+133651,Barnes,M,26,LEI,Leicester City,t13,113,13,4,0,0,1,0,9,21
+133749,Schär,D,23,NEW,Newcastle United,t4,270,1,0,0,0,1,0,2,11
+133868,Aarons,D,14,NOR,Norwich City,t45,134,9,0,0,0,0,0,0,6
+134236,Digne,D,7,EVE,Everton,t11,2,122,3,59,0,0,0,3,14
+134321,Kouyaté,M,6,CRY,Crystal Palace,t31,131,10,0,0,0,0,0,1,13
+134381,Meyer,M,6,CRY,Crystal Palace,t31,217,3,0,0,0,0,0,1,3
+135175,Lerma,M,127,BOU,Bournemouth,t91,245,2,0,0,0,0,0,0,9
+135177,Chambers,D,,,,,47,30,0,0,0,1,0,1,8
+135191,Traoré,F,38,WOL,Wolverhampton Wanderers,t39,17,56,3,0,0,2,1,2,10
+135200,McGinn,M,2,AVL,Aston Villa,t7,41,33,2,12,0,3,2,15,37
+135240,Montoya,D,131,BHA,Brighton and Hove Albion,t36,74,20,1,0,0,0,0,1,5
+135243,Mina,D,7,EVE,Everton,t11,217,3,0,0,0,0,0,7,16
+135245,Anício Caldeira Duarte,F,7,EVE,Everton,t11,126,11,0,4,0,2,0,2,4
+135251,Fernandez,D,23,NEW,Newcastle United,t4,126,11,1,0,0,1,0,2,4
+135262,Burn,D,131,BHA,Brighton and Hove Albion,t36,70,21,0,0,0,0,1,0,6
+135591,Longstaff,M,23,NEW,Newcastle United,t4,90,17,1,7,0,0,0,3,7
+135654,Saka,F,1,ARS,Arsenal,t3,134,9,1,1,0,0,0,1,4
+135977,Locadia,F,,,,,270,1,0,0,0,0,1,1,2
+136255,Söyüncü,D,26,LEI,Leicester City,t13,270,1,1,0,0,1,0,1,5
+136935,Abraham,F,4,CHE,Chelsea,t8,199,4,2,0,0,10,2,20,40
+137781,Longstaff,M,23,NEW,Newcastle United,t4,270,1,0,0,0,1,1,1,2
+139561,Fernandes da Silva Junior,D,,,,,270,1,0,0,0,0,0,0,0
+139564,Greenwood,F,,,,,199,4,0,0,0,1,1,4,7
+140935,Romeu Vidal,M,,,,,217,3,0,0,0,0,0,0,4
+143584,McLean,M,,,,,74,20,0,8,0,1,0,3,10
+144363,Holgate,D,7,EVE,Everton,t11,270,1,2,0,0,0,0,0,3
+144510,Solanke,F,127,BOU,Bournemouth,t91,270,1,0,0,0,0,0,5,14
+144579,Norwood,M,18,SHU,Sheffield United,t49,13,61,0,40,0,0,0,3,9
+144698,Pulisic,M,4,CHE,Chelsea,t8,90,17,2,4,0,5,0,12,19
+153012,Mepham,D,127,BOU,Bournemouth,t91,245,2,0,0,0,1,0,1,2
+154335,Almirón,M,23,NEW,Newcastle United,t4,126,11,0,0,0,0,0,5,22
+154336,Castro Otto,D,38,WOL,Wolverhampton Wanderers,t39,67,22,0,0,0,1,0,3,9
+154432,Guilbert,D,2,AVL,Aston Villa,t7,21,53,2,0,0,0,0,1,4
+154766,Connolly,F,131,BHA,Brighton and Hove Albion,t36,164,6,0,0,0,2,0,6,16
+157053,Oxlade-Chamberlain,M,,,,,149,8,0,0,0,0,0,1,12
+159627,James,M,12,MUN,Manchester United,t1,23,51,3,2,0,3,0,9,19
+159637,Fornals,M,25,WHU,West Ham United,t21,67,22,0,10,0,0,0,2,11
+159638,Djenepo,M,20,SOU,Southampton,t20,245,2,0,0,0,2,0,4,7
+159689,Moraes Ferreira da Silva,F,2,AVL,Aston Villa,t7,217,3,1,0,0,4,1,14,23
+159713,Trossard,M,131,BHA,Brighton and Hove Albion,t36,70,21,1,7,0,2,1,4,9
+159715,Tavares Gomes,M,7,EVE,Everton,t11,217,3,0,0,0,0,0,0,2
+159741,Drmic,F,14,NOR,Norwich City,t45,270,1,0,0,0,1,1,1,3
+159994,Wan-Bissaka,D,12,MUN,Manchester United,t1,52,28,0,0,0,0,0,0,2
+160025,Dendoncker,M,38,WOL,Wolverhampton Wanderers,t39,199,4,0,0,0,0,0,0,5
+160029,Targett,D,2,AVL,Aston Villa,t7,101,15,1,0,0,1,0,1,2
+160034,El Ghazi,M,2,AVL,Aston Villa,t7,33,38,3,8,0,3,1,11,23
+160036,Jiménez,F,38,WOL,Wolverhampton Wanderers,t39,149,8,2,0,0,6,2,17,41
+160054,Kovacic,M,4,CHE,Chelsea,t8,245,2,2,0,0,0,0,1,7
+160096,Ndombele,M,21,TOT,Tottenham Hotspur,t6,177,5,1,2,0,2,0,3,7
+160103,Freeman,M,18,SHU,Sheffield United,t49,121,12,0,6,0,0,0,0,2
+160118,Nelson,F,1,ARS,Arsenal,t3,177,5,0,5,0,0,0,3,4
+160156,Pérez Gutiérrez,F,26,LEI,Leicester City,t13,99,16,1,0,0,4,1,10,18
+160157,Esmoris Tasende,D,11,MCI,Manchester City,t43,45,31,0,0,0,0,1,0,1
+160166,Jagielka,D,18,SHU,Sheffield United,t49,270,1,0,0,0,0,0,0,0
+160312,Stacey,D,127,BOU,Bournemouth,t91,164,6,0,0,0,0,0,1,1
+160313,Pieters,D,43,BUR,Burnley,t90,70,21,3,0,0,0,0,1,5
+160314,Tielemans,M,26,LEI,Leicester City,t13,41,33,3,13,0,3,0,6,28
+160323,Mings,D,2,AVL,Aston Villa,t7,217,3,1,0,0,0,0,0,2
+160422,Konsa Ngoyo,D,2,AVL,Aston Villa,t7,270,1,0,0,0,0,0,1,1
+160424,Mount,M,4,CHE,Chelsea,t8,18,55,1,41,0,4,2,13,34
+160431,Robinson,F,18,SHU,Sheffield United,t49,126,11,1,0,0,1,0,4,12
+160457,Delph,M,7,EVE,Everton,t11,217,3,0,0,0,0,0,0,1
+160488,Engels,D,2,AVL,Aston Villa,t7,270,1,0,0,0,0,0,0,3
+160495,Byram,D,14,NOR,Norwich City,t45,217,3,0,0,0,0,0,0,4
+160522,Haller,F,25,WHU,West Ham United,t21,217,3,1,0,0,4,0,14,29
+160587,Mousset,F,18,SHU,Sheffield United,t49,270,1,3,0,0,4,0,4,14
+160672,Hassan,M,2,AVL,Aston Villa,t7,55,27,1,3,0,2,0,7,20
+160682,Ceballos,M,1,ARS,Arsenal,t3,43,32,2,30,0,0,0,3,9
+160683,Soares de Paulo,M,2,AVL,Aston Villa,t7,177,5,0,0,0,2,0,5,14
+160705,Vallejo,D,38,WOL,Wolverhampton Wanderers,t39,270,1,0,0,0,0,0,0,0
+160732,Billing,M,127,BOU,Bournemouth,t91,164,6,1,0,0,0,0,3,16
+160751,Cutrone,F,38,WOL,Wolverhampton Wanderers,t39,177,5,0,0,0,1,0,2,9
+160781,Danjuma Groeneveld,F,127,BOU,Bournemouth,t91,270,1,0,0,0,0,0,2,6
+160783,Pépé,F,1,ARS,Arsenal,t3,23,51,2,40,0,1,1,8,27
+160845,Willems,D,23,NEW,Newcastle United,t4,81,19,2,1,0,1,0,5,11
+160846,Saint-Maximin,F,23,NEW,Newcastle United,t4,90,17,0,0,0,0,1,6,15
+160847,McBurnie,F,18,SHU,Sheffield United,t49,270,1,0,0,0,2,0,3,11
+160892,Webster,D,131,BHA,Brighton and Hove Albion,t36,217,3,0,0,0,1,0,1,4
+160895,Lomba Neto,F,38,WOL,Wolverhampton Wanderers,t39,157,7,1,0,0,0,0,1,4
+160897,Kean,F,7,EVE,Everton,t11,177,5,1,0,0,0,0,1,9
+161345,Maguire,D,12,MUN,Manchester United,t1,245,2,1,0,0,0,0,4,14
+161349,Maupay,F,131,BHA,Brighton and Hove Albion,t36,199,4,0,0,0,4,0,11,39
+161377,Williams,D,12,MUN,Manchester United,t1,270,1,0,1,0,1,0,2,2
+161402,Wilson,M,127,BOU,Bournemouth,t91,134,9,0,8,1,4,1,9,23
+161454,Alves Soares,D,,,,,101,15,0,0,0,0,0,0,2
+161456,Adams,M,,,,,164,6,0,0,0,0,1,2,13
+161459,Redmond,M,,,,,121,12,0,0,0,1,0,6,23
+161463,Long,F,,,,,245,2,0,0,0,0,0,0,0
+161464,Ings,F,20,SOU,Southampton,t20,164,6,1,0,0,6,0,11,28
+161548,Sidibé,D,7,EVE,Everton,t11,105,14,1,0,0,0,0,0,1
+161549,Cavaco Cancelo,D,11,MCI,Manchester City,t43,105,14,0,0,0,0,0,2,6
+161558,McCarthy,M,6,CRY,Crystal Palace,t31,245,2,0,0,0,0,0,2,2
+161985,Krafth,D,23,NEW,Newcastle United,t4,134,9,0,0,0,0,0,0,3
+161990,Sarr,F,33,WAT,Watford,t57,164,6,0,0,0,0,0,0,5
+161998,Mooy,M,131,BHA,Brighton and Hove Albion,t36,74,20,0,12,0,0,0,0,3
+162001,Lo Celso,M,21,TOT,Tottenham Hotspur,t6,217,3,0,0,0,0,0,0,3
+162019,Luiz Moreira Marinho,D,1,ARS,Arsenal,t3,217,3,0,0,0,2,0,4,9
+162020,Iwobi,F,7,EVE,Everton,t11,99,16,0,0,0,1,2,8,17
+162021,Praet,M,26,LEI,Leicester City,t13,177,5,0,0,0,0,0,0,4
+162118,Bissouma,M,131,BHA,Brighton and Hove Albion,t36,245,2,0,0,0,0,0,1,1
+162156,Danso,D,20,SOU,Southampton,t20,199,4,1,0,0,0,0,0,1
+163201,Monreal,D,,,,,199,4,0,0,0,0,0,0,1
+163747,Hernández Balcázar,F,,,,,309,0,0,0,0,1,0,2,3
+163789,Mkhitaryan,M,,,,,199,4,0,2,0,0,0,0,2
+166103,Tierney,D,,,,,85,18,0,0,0,0,0,0,2
+166789,Martinelli Silva,M,1,ARS,Arsenal,t3,177,5,0,0,0,0,0,0,1
